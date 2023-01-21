@@ -1,0 +1,5 @@
+transaction_id,last_action,last_modified_timestamp,field_name,field_value,field_value_previous
+1,I,2023-01-01 00:00:00,amount,10.5,
+1,U,2023-01-01 12:00:00,amount,9.0,10.5
+1,I,2023-01-01 00:00:00,account_number,12345,
+1,U,2023-01-01 12:00:00,account_number,12345,12345
