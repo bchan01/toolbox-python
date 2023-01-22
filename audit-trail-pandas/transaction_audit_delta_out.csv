@@ -1,4 +1,4 @@
 transaction_id,account_number,last_action,last_modified_timestamp,field_name,field_value,field_value_previous
-1,12345,I,2023-01-01 00:00:00,amount,10.0,N/A
 1,12345,U,2023-01-01 12:00:00,amount,20.5,10.0
 1,12345,U,2023-01-01 12:30:00,amount,20.2,20.5
+1,12345,U,2023-01-01 12:30:00,status,posted,pending
